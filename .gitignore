@@ -1,0 +1,19 @@
+## .NET
+bin/
+obj/
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+.vs/
+packages/
+*.nupkg
+
+## VS Code / IDE
+.vscode/
+.idea/
+*.swp
+
+## OS
+Thumbs.db
+.DS_Store
